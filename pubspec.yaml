@@ -29,10 +29,10 @@ flutter:
     - assets/images/
     - assets/images/Group 79.png
  
-  fonts:
-     - family: GT-Eesti-Display
-       fonts:
-         - asset: fonts/GT-Eesti-Display-Regular
+  # fonts:
+  #   - family: GT-Eesti-Display
+  #     fonts:
+  #       - asset: fonts/GT-Eesti-Display-Regular
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
