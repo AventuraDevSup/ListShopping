@@ -1,4 +1,4 @@
-# ListShopping
+cd # ListShopping
 
 Um aplicativo de lista de compras que permite compartilhar a lista com amigos e familiares.
 
