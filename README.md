@@ -10,6 +10,9 @@ Um aplicativo de lista de compras que permite compartilhar a lista com amigos e 
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java/Spring-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="Java/Spring Boot">
   </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#/.NET">
+  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   </a>
