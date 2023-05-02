@@ -1,6 +1,16 @@
 cd # ListShopping
 
-Um aplicativo de lista de compras que permite compartilhar a lista com amigos e familiares.
+O List Shopping é um aplicativo de lista de compras que permite que os usuários criem, gerenciem e compartilhem suas listas de compras de forma fácil e conveniente.
+
+Para começar a usar o aplicativo, os usuários precisam criar uma conta ou fazer login com suas contas existentes de redes sociais ou do Google. Depois de fazer login, eles receberão um e-mail de confirmação para verificar sua conta e começar a usar o aplicativo.
+
+Uma vez autenticados, os usuários podem criar uma nova lista de compras, especificando o nome da lista, o valor estipulado para as compras e as opções de compartilhamento da lista com outras pessoas via e-mail ou WhatsApp. Quando a lista é compartilhada com outras pessoas, elas receberão uma notificação para fazer o download do aplicativo e autenticar-se no Firebase.
+
+Depois de criar uma lista, os usuários podem adicionar itens à lista e receberão notificações em tempo real quando outros usuários adicionarem ou removerem itens da lista. O aplicativo também mostra o valor total da lista e alerta os usuários quando o valor da lista ultrapassa o valor estipulado.
+
+Quando os usuários terminam de fazer compras, eles podem finalizar a lista e receberão um extrato mostrando todos os itens da lista e o valor total gasto. Se algum item foi esquecido, um popup aparecerá para avisar ao usuário antes que ele finalize a lista.
+
+O List Shopping é uma ferramenta útil para qualquer pessoa que queira gerenciar suas listas de compras de forma fácil e conveniente. Experimente agora e veja como pode tornar suas compras mais eficientes!
 
 ## Tecnologias utilizadas
 <p align="left">
