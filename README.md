@@ -26,6 +26,9 @@ O List Shopping é uma ferramenta útil para qualquer pessoa que queira gerencia
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </a>
+  <a href="https://ionicframework.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
+  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java/Spring-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="Java/Spring Boot">
   </a>
