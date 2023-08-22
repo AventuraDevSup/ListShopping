@@ -71,7 +71,7 @@ Além disso, o aplicativo irá implementar a funcionalidade de armazenamento loc
 A comunicação com a API será feita por meio de uma aplicação web desenvolvida em C# ou Java/Spring Boot, que será responsável por gerenciar as listas de compras dos usuários, incluindo a criação, edição, exclusão e compartilhamento de listas.
 
 ## Tecnologias utilizadas
-- Flutter
+- Flutter / Ionic
 - Firebase (autenticação, armazenamento em nuvem, banco de dados em tempo real e notificações push)
 - SQLite
 - C# ou Java/Spring Boot
